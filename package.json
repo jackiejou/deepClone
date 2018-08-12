@@ -1,0 +1,19 @@
+{
+  "name": "deepclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deepClone.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackiejou/deepClone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackiejou/deepClone/issues"
+  },
+  "homepage": "https://github.com/jackiejou/deepClone#readme"
+}
